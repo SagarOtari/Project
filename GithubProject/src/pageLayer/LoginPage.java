@@ -4,7 +4,8 @@ public class LoginPage {
 
 	public static void main(String[] args) {
 
-		System.out.println("Login page user story");
+		System.out.println("Login page user stor");
+		System.out.println("I have analyse thr user story");
 
 	}
 
